@@ -31,3 +31,6 @@ To launch unit tests run  `$ npm test` from `functions/` directory.
 ### App screenshots
 
 ###
+
+#Create README.md as a basis for my water logger
+#Changes and updates will be made
